@@ -3,5 +3,4 @@
 1 croissant
 2 sausages
 1 apple
-
-second apple
+banana
